@@ -8,4 +8,10 @@
 
 <img src="https://github.com/Skiyee/sponsors/assets/120664167/ce676989-3861-4c67-909c-a74517923620" alt="wechat-pay" width="360" />
 
+### 赞助面板
 
+<p align="center">
+  <a href="https://github.com/Skiyee/sponsors">
+    <img alt="sponsors" src="https://cdn.jsdelivr.net/gh/Skiyee/Skiyee/sponsors.svg"/>
+  </a>
+</p>
