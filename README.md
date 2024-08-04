@@ -6,7 +6,7 @@
 
 ### 微信赞助
 
-<img src="https://github.com/Skiyee/sponsors/assets/120664167/ce676989-3861-4c67-909c-a74517923620" alt="wechat-pay" width="360" />
+<img src="https://cdn.jsdelivr.net/gh/Skiyee/sponsors@main/assets/wechat-pay.png" alt="wechat-pay" width="360" />
 
 ### 赞助面板
 
